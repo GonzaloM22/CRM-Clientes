@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gonzalo Damian",
+      "empresa": "Empresa de prueba",
+      "email": "gonn.m@hotmail.com",
+      "telefono": "3512735687",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
